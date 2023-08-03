@@ -8,7 +8,7 @@
 | 10:15-11:00 | Multiple dispatch                                                  | Fredrik Ekre       |
 | 11:15-12:00 | Environments                                                       | Knut Andreas Meyer |
 | 12:00-13:15 | Lunch                                                              | -                  |
-| 13:15-14:00 | Vizualization and notebooks                                        | David Rollin       |
+| 13:15-14:00 | Visualization and notebooks                                        | David Rollin       |
 | 14:15-15:00 | The julia ecosystem: Important, useful, and interesting packages   | Fredrik Ekre       |
 | 15:15-16:00 | Make your own julia package; structure, testing, and documentation | Knut Andreas Meyer |
 
