@@ -1,6 +1,18 @@
-# Julia and Ferrite course schedule
+# Julia and Ferrite course
+Tampere, August 9-10
 
-## Wednesday (9/8): Julia
+## Setup instructions
+To make the course efficient, we ask all participants to install Julia and additional tools before the start of the course. 
+
+1. Install the [VSCode editor](https://code.visualstudio.com/)
+2. Install julia (via [juliaup](https://github.com/JuliaLang/juliaup)):
+   * Windows, via [the windows store](https://www.microsoft.com/store/apps/9NJNWW8PVKMN) 
+   * Mac/linux: Call `curl -fsSL https://install.julialang.org | sh` in your shell
+3. Add the julia VSCode [extension](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia). Only follow step 3, steps 1 and 2 where completed above
+
+
+## Schedule
+### Wednesday (9/8): Julia
 |        time |                                                              Topic |         Instructor |
 | ----------- | ------------------------------------------------------------------ | ------------------ |
 | 09:00-09:15 | Help with julia setup                                              | All                |
@@ -12,7 +24,7 @@
 | 14:15-15:00 | The julia ecosystem: Important, useful, and interesting packages   | Fredrik Ekre       |
 | 15:15-16:00 | Make your own julia package; structure, testing, and documentation | Knut Andreas Meyer |
 
-## Thursday (10/8): Ferrite
+### Thursday (10/8): Ferrite
 |        time |                                                              Topic |         Instructor |
 | ----------- | ------------------------------------------------------------------ | ------------------ |
 | 09:15-10:15 | Introduction to `Ferrite.jl`                                       | Fredrik Ekre       |
