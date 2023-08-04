@@ -8,7 +8,7 @@ To make the course efficient, we ask all participants to install Julia and addit
 2. Install julia (via [juliaup](https://github.com/JuliaLang/juliaup)):
    * Windows, via [the windows store](https://www.microsoft.com/store/apps/9NJNWW8PVKMN) 
    * Mac/linux: Call `curl -fsSL https://install.julialang.org | sh` in your shell
-3. Add the julia VSCode [extension](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia). Only follow step 3, steps 1 and 2 where completed above
+3. Add the julia VSCode [extension](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia). Only follow step 3 (i.e. press install at the top). (Steps 1 and 2 were completed above)
 
 
 ## Schedule
