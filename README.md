@@ -1,6 +1,6 @@
 # Julia and Ferrite course
 Welcome to an introductory course in the [Julia programming language](https://julialang.org/) (day 1) 
-and the Finite Element package [`Ferrite.jl`](ferrite-fem.github.io/) (day 2) in Tampere. 
+and the Finite Element package [`Ferrite.jl`](https://ferrite-fem.github.io/Ferrite.jl/stable/) (day 2) in Tampere. 
 The course is organized within the collaboration seed funding project Modelling of ECO-concrete FRACture (MECOFRAC)
 between Tampere University and TU Braunschweig. 
 
