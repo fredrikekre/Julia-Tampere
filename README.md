@@ -31,8 +31,9 @@ before the start of the course.
 | 09:00-09:15 | Help with julia setup                                              | All                |
 | 09:15-10:00 | Introduction                                                       | Fredrik Ekre       |
 | 10:15-11:00 | Multiple dispatch                                                  | Fredrik Ekre       |
-| 11:15-12:00 | Environments                                                       | Knut Andreas Meyer |
-| 12:00-13:15 | Lunch                                                              | -                  |
+| 11:15-11:50 | Environments                                                       | Knut Andreas Meyer |
+| 11:50-13:00 | Lunch                                                              | -                  |
+| 13:00-13:15 | Environments (wrapping up)                                         | Knut Andreas Meyer |
 | 13:15-14:00 | Visualization and notebooks                                        | David Rollin       |
 | 14:15-15:00 | The julia ecosystem: Important, useful, and interesting packages   | Fredrik Ekre       |
 | 15:15-16:00 | Make your own julia package; structure, testing, and documentation | Knut Andreas Meyer |
