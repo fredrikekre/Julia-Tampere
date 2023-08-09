@@ -1,0 +1,13 @@
+name = "MyPackage"
+uuid = "1c5f967d-8ba3-4087-8c2d-bc69d42e741a"
+authors = ["Knut Andreas Meyer <knutam@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
