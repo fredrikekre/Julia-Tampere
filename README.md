@@ -8,6 +8,11 @@ language](https://julialang.org/) (day 1) and the Finite Element package
 within the collaboration seed funding project Modelling of ECO-concrete FRACture (MECOFRAC)
 between Tampere University and TU Braunschweig.
 
+## Credits
+To get credits for the course, please submit a `.zip`-file with the solved 
+[assignment](/assignment.md) via email to 
+[Knut Andreas Meyer](mailto:k.a.meyer@tu-bs.de) by September 30th, 2023. 
+
 ## Setup instructions
 
 To make the course efficient, we ask all participants to install Julia and additional tools
